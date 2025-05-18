@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sunset-dreams",
+    "title": "Sunset Dreams",
+    "date": "2024-06-10",
+    "medium": "Watercolor",
+    "category": "Nature",
+    "imageUrl": "/images/sunset-dreams.jpg"
+  },
+  {
+    "id": "abstract-joy",
+    "title": "Abstract Joy",
+    "date": "2024-05-03",
+    "medium": "Acrylic",
+    "category": "Abstract",
+    "imageUrl": "/images/abstract-joy.jpg"
+  },
+  {
+    "id": "curious-cat",
+    "title": "Curious Cat",
+    "date": "2024-07-20",
+    "medium": "Colored Pencil",
+    "category": "Animals",
+    "imageUrl": "/images/curious-cat.jpg"
+  }
+]
